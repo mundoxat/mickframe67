@@ -50,7 +50,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- 3. CONTENIDO DE SECCIONES (MODIFICADO: HTML de Perfil) ---
     const sectionContent = {
         perfil: {
-            title: `Mi Perfil`,
+            title: `My Profile`,
             html: `
                 <div class="profile-content-layout">
                     <div class="profile-image-side">
@@ -214,5 +214,6 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
 });
+
 
 
