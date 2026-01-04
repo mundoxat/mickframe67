@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         <img src="https://xatimg.com/image/0JlaeEWKj6bQ.jpg" alt="Foto de Perfil en Contenido">
                     </div>
                     <div class="profile-text-side">
-                        <h3 style="color: var(--sunflower-dark); margin-top: 0; font-weight: 600; font-size: 1.8em;">Hola, soy Aracely</h3>
+                        <h3 style="color: var(--sunflower-dark); margin-top: 0; font-weight: 600; font-size: 1.8em;">Hi, I'm Mick!</h3>
                         <p style="font-style: italic; color: #777;">"Flowing with the light. Always positive and constantly growing, like a sunflower.</p>
                         <p><strong>Nationality: Dubai-Marina. </strong> </p>
                         <p><strong>Statute:Busy.</strong> </p>
@@ -214,4 +214,5 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
 });
+
 
